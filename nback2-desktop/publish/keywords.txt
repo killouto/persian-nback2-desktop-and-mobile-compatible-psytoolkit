@@ -1,0 +1,4 @@
+nback
+memory
+persian
+farsi
